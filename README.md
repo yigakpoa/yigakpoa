@@ -1,4 +1,4 @@
-<h2 align="center">Hey hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Aloha! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 <!-- Animation Typing -->
 
@@ -16,21 +16,21 @@
 
 <!-- About me section -->
 
-<h2>🥁 About Yiga</h2>
+<h2>🥁 About Yiga<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
 <h3 align="left">Yiga is super passionate about no-code contributions & inclusivity in Open Source.</h3>
 
 - 🔭 I’m currently a maintainer at [CLENT Africa 🚀](https://github.com/clentafrica), [CHAOSS 🥁](https://github.com/chaoss), [Oppia ❤️](https://github.com/oppia), & [A11Y Ng 🗣️](https://github.com/Accessibility-Nigeria).
 
-- 🌱 I’m currently learning **about using technology to combat climate change & energy issues.**
+- 🌱 I am learning **about using technology to combat climate change & energy issues.**
 
 - 👯 I’m looking to **collaborate, write, & speak** on more open source projects/topics.
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@yigakpoa) & [Hashnode](https://hashnode.com/@yigakpoa)
 
-- 💬 Ask me about **Open Source, Product Management, Digital Marketing, Technical Writing, A11Y, Web3, DEI, & Mentoring.**
+- 💬 Ask me about: **Open Source, Product Management, Digital Marketing, Technical Writing, A11Y, Web3, DEI, & Mentoring.**
 
-- ⚡ Fun fact **I am a fine artist and I love food 💃**
+- ⚡ Fun fact: **I am a fine artist & I love food 💃**
 
 <!-- About me section: END -->
 
@@ -42,7 +42,7 @@
 <a href="https://linkedin.com/in/yigakpoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigakpoa" height="30" width="40" /></a>
 <a href="https://hashnode.com/@yigakpoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yigakpoa" height="30" width="40" /></a>
 <a href="https://medium.com/@yigakpoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yigakpoa" height="30" width="40" /></a>
-<a href="mailto:yigaikpae@gmail.com"><img src="https://img.shields.io/badge/-Yiga%20Ikpae-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:yigaikpae@gmail.com" alt="Gmail Badge"></a>
+<a href="mailto:yigaikpae@gmail.com"><img src="https://img.shields.io/badge/-Yiga%20S.-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:yigaikpae@gmail.com" alt="Gmail Badge"></a>
 
 </p>
 
