@@ -8,6 +8,12 @@
 
 <!-- Animation Typing: END -->
 
+<!--Image Gif-->
+<img  src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" height="290px" align="center" />
+
+<!-- Image Gif: END -->
+
+
 <!-- About me section -->
 
 <h2>🥁 About Yiga</h2>
@@ -20,7 +26,7 @@
 
 - 👯 I’m looking to **collaborate, write, & speak** on more open source projects/topics.
 
-- 📝 I regularly write articles on [https://medium.com/@yigakpoa](https://medium.com/@yigakpoa)
+- 📝 I regularly write articles on [Medium](https://medium.com/@yigakpoa) & [Hashnode](https://hashnode.com/@yigakpoa)
 
 - 💬 Ask me about **Open Source, Product Management, Digital Marketing, Technical Writing, A11Y, Web3, DEI, & Mentoring.**
 
