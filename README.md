@@ -8,24 +8,25 @@
 
 <!-- Animation Typing: END -->
 
-<h3 align="center">I'm passionate about no-code contributions in Open Source.</h3>
+<!-- About me section -->
 
-<p align="left"> <a href="https://twitter.com/yiga_01" target="blank"><img src="https://img.shields.io/twitter/follow/yiga_01?logo=twitter&style=for-the-badge" alt="yiga_01" /></a> </p>
+<h2>🥁 About Yiga</h2>
 
-- 🔭 I’m currently working on [CLENT Africa](https://github.com/clentafrica)
+<h3 align="left">Yiga is super passionate about no-code contributions & inclusivity in Open Source.</h3>
+
+- 🔭 I’m currently a maintainer at [CLENT Africa 🚀](https://github.com/clentafrica), [CHAOSS 🥁](https://github.com/chaoss), [Oppia ❤️](https://github.com/oppia), & [A11Y Ng 🗣️](https://github.com/Accessibility-Nigeria).
 
 - 🌱 I’m currently learning **about using technology to combat climate change & energy issues.**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to **collaborate, write, & speak** on more open source projects/topics.
 
 - 📝 I regularly write articles on [https://medium.com/@yigakpoa](https://medium.com/@yigakpoa)
 
 - 💬 Ask me about **Open Source, Product Management, Digital Marketing, Technical Writing, A11Y, Web3, DEI, & Mentoring.**
 
-- 📫 Reach me via:**yigaikpae@gmail.com**
-- 
-
 - ⚡ Fun fact **I am a fine artist and I love food 💃**
+
+<!-- About me section: END -->
 
 <!-- Connect with Yiga -->
 
@@ -35,6 +36,8 @@
 <a href="https://linkedin.com/in/yigakpoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigakpoa" height="30" width="40" /></a>
 <a href="https://hashnode.com/@yigakpoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yigakpoa" height="30" width="40" /></a>
 <a href="https://medium.com/@yigakpoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yigakpoa" height="30" width="40" /></a>
+<a href="mailto:yigaikpae@gmail.com"><img src="https://img.shields.io/badge/-Yiga%20Ikpae-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:yigaikpae@gmail.com" alt="Gmail Badge"></a>
+
 </p>
 
  <!-- Connect with Yiga: END -->
@@ -50,18 +53,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yigakpoa" alt="yigakpoa" /></a> </p>
 
 <!-- Github Stats: END -->
-
-<!--
-**yigakpoa/yigakpoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
