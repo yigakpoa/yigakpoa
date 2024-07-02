@@ -30,7 +30,7 @@
 
 - 💬 Ask me about: **Open Source, Product Management, Digital Marketing, Technical Writing, A11Y, Web3, DEI, & Mentoring.**
 
-- ⚡ Fun fact: **I am a fine artist 👩‍🎨, I love food 🍛, & a Google OSPB Awardee 🎖️**
+- ⚡ Fun fact: **I'm a fine artist 👩‍🎨, I love food 🍛, & I am a Google OSPB Awardee 🎖️**
 
 <!-- About me section: END -->
 
