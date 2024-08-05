@@ -28,7 +28,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@yigakpoa) & [Hashnode](https://hashnode.com/@yigakpoa)
 
-- 💬 Ask me about: **Open Source, Product Management, Digital Marketing, Technical Writing, A11Y, Web3, DEI, & Mentoring.**
+- 💬 Ask me about: **Open Source, Product Management, Digital Marketing, Technical Writing, Climate Change & Mentoring.**
 
 - ⚡ Fun fact: **I'm a fine artist 👩‍🎨, I love food 🍛, & I am a Google OSPB Awardee 🎖️**
 
