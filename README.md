@@ -20,7 +20,7 @@
 
 <h3 align="left">Yiga is super passionate about no-code contributions & inclusivity in Open Source.</h3>
 
-- 🔭 I’m currently a maintainer at [CLENT Africa 🚀](https://github.com/clentafrica), [CHAOSS 🥁](https://github.com/chaoss), & [Oppia ❤️](https://github.com/oppia).
+- 🔭 I’m currently a maintainer at [CLENT Africa 🚀](https://github.com/clentafrica), & [CHAOSS 🥁](https://github.com/chaoss).
 
 - 🌱 I am learning **about using technology to combat climate change & energy issues.**
 
