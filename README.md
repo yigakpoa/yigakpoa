@@ -16,21 +16,21 @@
 
 <!-- About me section -->
 
-<h2>🥁 About Yiga<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<h2> About Yiga<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
-<h3 align="left">Yiga is super passionate about no-code contributions & inclusivity in Open Source.</h3>
+<h3 align="left">Yiga is super passionate about no-code contributions, & inclusivity in Open Source.</h3>
 
-- 🔭 I’m currently a maintainer at [CLENT Africa 🚀](https://github.com/clentafrica), & [CHAOSS 🥁](https://github.com/chaoss).
+-  I’m currently a maintainer at [CLENT Africa ](https://github.com/clentafrica), & [CHAOSS ](https://github.com/chaoss).
 
-- 🌱 I am learning **about using technology to combat climate change & energy issues.**
+-  I am learning **about using technology to combat climate change & energy issues.**
 
-- 👯 I’m looking to **collaborate, write, & speak** on more open source projects/topics.
+-  I’m looking to **collaborate, write, & speak** on more open source projects/topics.
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@yigakpoa) & [Hashnode](https://hashnode.com/@yigakpoa)
+-  I regularly write articles on [Medium](https://medium.com/@yigakpoa) & [Hashnode](https://hashnode.com/@yigakpoa)
 
-- 💬 Ask me about: **Open Source, Product Management, Digital Marketing, Technical Writing, Climate Change & Mentoring.**
+-  Ask me about: **Open Source, Product Management, Digital Marketing, Governance, Climate Change & Mentoring.**
 
-- ⚡ Fun fact: **I'm a fine artist 👩‍🎨, I love food 🍛, & I am a Google OSPB Awardee 🎖️**
+-  Fun fact: **I'm a fine artist , I love food , & I am a Google OSPB Awardee**
 
 <!-- About me section: END -->
 
@@ -50,7 +50,7 @@
 
 <!-- Github Stats -->
 
-## 🔥 GitHub Stats
+##  GitHub Stats
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yigakpoa&show_icons=true&locale=en" alt="yigakpoa" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yigakpoa&show_icons=true&locale=en&layout=compact" alt="yigakpoa" /></p>
 
